@@ -2,6 +2,8 @@
 
 Repository hosting the code and dataset of the paper titled `"Short-term Renewable Energy Forecasting in Greece using Prophet Decomposition and Tree-based Ensembles"`, submitted in the AI-CARES 2021 Conference.
 
+Originally from https://github.com/intelligence-csd-auth-gr/greek-solar-wind-energy-forecasting
+This repo is modified to be a course project for DS340w at Penn State University.
 
 ## Onshore solar and wind installations in Greece (year: 2020)
 ---
